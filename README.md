@@ -67,7 +67,7 @@ Each section is a standalone Markdown file in this repository:
 
 To begin the tutorial, start with:
 
-➡️ [**Part 1 – Environment Setup**](./part1_environment_setup_revised.md)
+➡️ [**Part 1 – Environment Setup**](./part1_environment_setup.md))
 
 Make sure you have the .NET SDK installed and VS Code ready to go!
 
